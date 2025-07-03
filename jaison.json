@@ -1,0 +1,507 @@
+
+
+
+DESPEDIDAS
+
+[
+  {
+    "expresion": "Adiós",
+    "forma_realizacion": "Mano abierta se mueve hacia afuera desde el lado de la cabeza",
+    "imagen_ref": "adios.png"
+  },
+  {
+    "expresion": "Hasta luego",
+    "forma_realizacion": "Gesto de 'después' seguido de 'ver'",
+    "imagen_ref": "hasta_luego.png"
+  },
+  {
+    "expresion": "Nos vemos",
+    "forma_realizacion": "Índice y medio en los ojos, luego apuntan al frente",
+    "imagen_ref": "nos_vemos.png"
+  },
+  {
+    "expresion": "Cuídate",
+    "forma_realizacion": "Gesto de proteger algo con ambas manos hacia la persona",
+    "imagen_ref": "cuidate.png"
+  },
+  {
+    "expresion": "Que te vaya bien",
+    "forma_realizacion": "Mano abierta empuja suavemente hacia adelante",
+    "imagen_ref": "que_te_vaya_bien.png"
+  },
+  {
+    "expresion": "Hasta mañana",
+    "forma_realizacion": "Gesto de 'mañana' acompañado de despedida",
+    "imagen_ref": "hasta_manana.png"
+  },
+  {
+    "expresion": "Buenas noches",
+    "forma_realizacion": "Mano sobre el rostro bajando como si durmiera",
+    "imagen_ref": "buenas_noches.png"
+  },
+  {
+    "expresion": "Chao",
+    "forma_realizacion": "Movimiento rápido de la mano como diciendo adiós",
+    "imagen_ref": "chao.png"
+  },
+  {
+    "expresion": "Me voy",
+    "forma_realizacion": "Pulgar señalando hacia uno mismo y luego hacia fuera",
+    "imagen_ref": "me_voy.png"
+  },
+  {
+    "expresion": "Hasta pronto",
+    "forma_realizacion": "Índice hacia el frente con una sonrisa, luego movimiento de despedida",
+    "imagen_ref": "hasta_pronto.png"
+  },
+  {
+    "expresion": "Nos hablamos luego",
+    "forma_realizacion": "Gesto de hablar y luego señalar hacia el tiempo futuro",
+    "imagen_ref": "nos_hablamos_luego.png"
+  },
+  {
+    "expresion": "Nos escribimos",
+    "forma_realizacion": "Imitación de escribir con gesto hacia otra persona",
+    "imagen_ref": "nos_escribimos.png"
+  },
+  {
+    "expresion": "Hasta la próxima",
+    "forma_realizacion": "Gesto de 'después' y 'nuevamente'",
+    "imagen_ref": "hasta_la_proxima.png"
+  },
+  {
+    "expresion": "Ya me voy",
+    "forma_realizacion": "Mano en el pecho, luego gesto de retirada",
+    "imagen_ref": "ya_me_voy.png"
+  },
+  {
+    "expresion": "Nos leemos",
+    "forma_realizacion": "Gesto de leer y apuntar a la otra persona",
+    "imagen_ref": "nos_leemos.png"
+  },
+  {
+    "expresion": "Te veo pronto",
+    "forma_realizacion": "Índice a los ojos, luego hacia la persona",
+    "imagen_ref": "te_veo_pronto.png"
+  },
+  {
+    "expresion": "Cuídense",
+    "forma_realizacion": "Manos abiertas hacia varios y movimiento de protección",
+    "imagen_ref": "cuidense.png"
+  },
+  {
+    "expresion": "Hasta más tarde",
+    "forma_realizacion": "Gesto de tiempo futuro lejano con despedida",
+    "imagen_ref": "hasta_mas_tarde.png"
+  },
+  {
+    "expresion": "Con permiso",
+    "forma_realizacion": "Gesto de mover la mano ligeramente hacia el frente en señal de respeto",
+    "imagen_ref": "con_permiso.png"
+  },
+  {
+    "expresion": "Me retiro",
+    "forma_realizacion": "Señalarse a sí mismo y luego hacer gesto de irse",
+    "imagen_ref": "me_retiro.png"
+  }
+]
+
+FUNCIONALIBILIDAD
+[
+  {
+    "pregunta": "que es el guante",
+    "descripcion": "El guante es un dispositivo que traduce la lengua de senas mexicana a texto o voz mediante sensores."
+  },
+  {
+    "pregunta": "como funciona el guante",
+    "descripcion": "Detecta los movimientos de los dedos y la mano usando sensores, luego los interpreta como senas."
+  },
+  {
+    "pregunta": "que sensores usa el guante",
+    "descripcion": "Usa sensores de flexion, acelerometros y giroscopios para captar los movimientos de la mano."
+  },
+  {
+    "pregunta": "cuantos sensores tiene el guante",
+    "descripcion": "Generalmente incluye al menos cinco sensores de flexion, uno por dedo, y otros sensores para movimiento."
+  },
+  {
+    "pregunta": "que significa lsm",
+    "descripcion": "LSM significa lengua de senas mexicana."
+  },
+  {
+    "pregunta": "como se traduce una sena",
+    "descripcion": "El guante detecta la posicion de los dedos y la interpreta mediante un modelo de datos."
+  },
+  {
+    "pregunta": "se puede usar sin internet",
+    "descripcion": "Depende de la version del guante. Algunas funciones pueden usarse sin conexion."
+  },
+  {
+    "pregunta": "como se conecta el guante",
+    "descripcion": "El guante se conecta por bluetooth o cable usb a un dispositivo movil o computadora."
+  },
+  {
+    "pregunta": "necesita bateria el guante",
+    "descripcion": "Si, el guante necesita bateria recargable para funcionar de forma inalambrica."
+  },
+  {
+    "pregunta": "cuanto dura la bateria del guante",
+    "descripcion": "La bateria puede durar entre 4 y 8 horas dependiendo del uso."
+  },
+  {
+    "pregunta": "el guante tiene aplicacion movil",
+    "descripcion": "Si, el guante se conecta a una aplicacion que muestra la traduccion en texto o voz."
+  },
+  {
+    "pregunta": "la aplicacion es gratuita",
+    "descripcion": "Si, la aplicacion del guante es gratuita para los usuarios."
+  },
+  {
+    "pregunta": "puede hablar el guante",
+    "descripcion": "Si, mediante la aplicacion el guante puede reproducir voz con la traduccion."
+  },
+  {
+    "pregunta": "puede mostrar texto el guante",
+    "descripcion": "Si, el guante envia texto traducido a la pantalla del dispositivo vinculado."
+  },
+  {
+    "pregunta": "puede detectar todas las senas",
+    "descripcion": "No todas, pero reconoce un conjunto amplio de senas comunes en la lsm."
+  },
+  {
+    "pregunta": "puede aprender nuevas senas",
+    "descripcion": "Algunos modelos permiten agregar nuevas senas mediante entrenamiento."
+  },
+  {
+    "pregunta": "se puede usar en la escuela",
+    "descripcion": "Si, es muy util en ambientes educativos para personas sordas o con discapacidad auditiva."
+  },
+  {
+    "pregunta": "funciona con ninos",
+    "descripcion": "Si, puede adaptarse para ninos si el tamano del guante es adecuado."
+  },
+  {
+    "pregunta": "cuanto cuesta el guante",
+    "descripcion": "El precio puede variar segun la version, entre mil y tres mil pesos mexicanos."
+  },
+  {
+    "pregunta": "donde se puede comprar",
+    "descripcion": "Puedes adquirirlo a traves del sitio web oficial o con distribuidores autorizados."
+  },
+  {
+    "pregunta": "cuanto pesa el guante",
+    "descripcion": "El guante pesa aproximadamente 200 gramos."
+  },
+  {
+    "pregunta": "el guante es comodo",
+    "descripcion": "Si, esta disenado para ser ligero y flexible para uso prolongado."
+  },
+  {
+    "pregunta": "el guante sirve para cualquier mano",
+    "descripcion": "Existen versiones para mano izquierda y derecha, se debe elegir la adecuada."
+  },
+  {
+    "pregunta": "es resistente al agua",
+    "descripcion": "No, no se recomienda exponer el guante al agua o humedad excesiva."
+  },
+  {
+    "pregunta": "como se limpia el guante",
+    "descripcion": "Con un pano seco o ligeramente humedo, sin sumergirlo."
+  },
+  {
+    "pregunta": "que pasa si se rompe un sensor",
+    "descripcion": "Debe ser revisado por soporte tecnico o reemplazado si es necesario."
+  },
+  {
+    "pregunta": "tiene garantia",
+    "descripcion": "Si, normalmente se ofrece una garantia de 6 a 12 meses."
+  },
+  {
+    "pregunta": "puede conectarse a una computadora",
+    "descripcion": "Si, mediante usb o bluetooth, depende del modelo."
+  },
+  {
+    "pregunta": "el guante tiene luces",
+    "descripcion": "Algunos modelos tienen luces led para indicar estado o errores."
+  },
+  {
+    "pregunta": "puede vibrar el guante",
+    "descripcion": "Ciertos modelos integran vibracion para retroalimentacion."
+  },
+  {
+    "pregunta": "como saber si esta encendido",
+    "descripcion": "Una luz led indica si el guante esta encendido y funcionando."
+  },
+  {
+    "pregunta": "como se apaga el guante",
+    "descripcion": "Se apaga con un boton fisico o desde la aplicacion."
+  },
+  {
+    "pregunta": "es facil de usar",
+    "descripcion": "Si, esta disenado para ser intuitivo incluso para personas sin experiencia previa."
+  },
+  {
+    "pregunta": "como se actualiza el software",
+    "descripcion": "Desde la aplicacion puedes actualizar el software si hay nuevas versiones."
+  },
+  {
+    "pregunta": "puede reconocer palabras completas",
+    "descripcion": "Detecta senas que representan palabras completas o frases cortas."
+  },
+  {
+    "pregunta": "el guante funciona con ios y android",
+    "descripcion": "Si, la aplicacion es compatible con ambos sistemas."
+  },
+  {
+    "pregunta": "puede usarse en lugares publicos",
+    "descripcion": "Si, es portatil y puede usarse en escuelas, hospitales, plazas o trabajo."
+  },
+  {
+    "pregunta": "puede conectarse a pantallas",
+    "descripcion": "La aplicacion puede mostrar la traduccion en pantallas conectadas."
+  },
+  {
+    "pregunta": "cuantos idiomas traduce",
+    "descripcion": "Por ahora solo traduce de lsm a espanol."
+  },
+  {
+    "pregunta": "el guante tiene app web",
+    "descripcion": "Se esta trabajando en una version web que permita usarlo desde navegador."
+  },
+  {
+    "pregunta": "se puede personalizar el guante",
+    "descripcion": "Se puede elegir tamano, color y configurar algunas funciones en la app."
+  },
+  {
+    "pregunta": "el guante es pesado",
+    "descripcion": "No, esta hecho con materiales livianos para mayor comodidad."
+  },
+  {
+    "pregunta": "funciona en la oscuridad",
+    "descripcion": "Si, los sensores no necesitan luz para detectar el movimiento."
+  },
+  {
+    "pregunta": "el guante necesita calibracion",
+    "descripcion": "Algunas funciones pueden requerir calibracion inicial para mayor precision."
+  },
+  {
+    "pregunta": "como se reinicia el guante",
+    "descripcion": "Manteniendo presionado el boton de encendido por unos segundos."
+  },
+  {
+    "pregunta": "el guante es recargable",
+    "descripcion": "Si, tiene bateria recargable mediante cable usb."
+  },
+  {
+    "pregunta": "se puede compartir la app",
+    "descripcion": "Si, puedes instalarla en varios dispositivos aunque el guante se usa uno a la vez."
+  },
+  {
+    "pregunta": "puedo ver mi historial de traducciones",
+    "descripcion": "Si, la aplicacion guarda el historial de senas traducidas."
+  },
+  {
+    "pregunta": "la app guarda mis datos",
+    "descripcion": "Solo los necesarios para mejorar la experiencia. No se comparten sin permiso."
+  },
+  {
+    "pregunta": "puede funcionar con reconocimiento facial",
+    "descripcion": "No, el guante se basa solo en sensores de mano, no en el rostro."
+  },
+  {
+    "pregunta": "como se conecta a internet",
+    "descripcion": "El guante no se conecta directamente a internet, pero la aplicacion puede requerir conexion para actualizaciones."
+  },
+  {
+    "pregunta": "puede traducir en tiempo real",
+    "descripcion": "Si, el guante traduce las senas en tiempo real a texto o voz."
+  },
+  {
+    "pregunta": "es compatible con asistentes de voz",
+    "descripcion": "La aplicacion puede integrarse con asistentes de voz como Alexa o Google Assistant."
+  }
+]
+
+LSM
+[
+  {
+    "pregunta": "cuando empezo la lsm",
+    "descripcion": "La LSM comenzó a utilizarse formalmente a finales del siglo XIX en escuelas para personas sordas en México."
+  },
+  {
+    "pregunta": "quien creo la lsm",
+    "descripcion": "No fue creada por una sola persona, sino que surgió de manera natural entre comunidades de personas sordas."
+  },
+  {
+    "pregunta": "donde se origino la lsm",
+    "descripcion": "Se originó en la Ciudad de México, especialmente en la Escuela Nacional para Sordomudos."
+  },
+  {
+    "pregunta": "la lsm es oficial en mexico",
+    "descripcion": "Sí, desde 2005 la LSM es reconocida como lengua nacional en México."
+  },
+  {
+    "pregunta": "que significa lsm",
+    "descripcion": "LSM significa Lengua de Señas Mexicana, una lengua visual y gestual usada por personas sordas."
+  },
+  {
+    "pregunta": "como aprendian antes las personas sordas",
+    "descripcion": "Antes de la LSM, las personas sordas eran forzadas a aprender a leer los labios o hablar."
+  },
+  {
+    "pregunta": "la lsm es igual que otras lenguas de senas",
+    "descripcion": "No, cada país tiene su propia lengua de señas. La LSM es única de México."
+  },
+  {
+    "pregunta": "cuantos anos tiene la lsm",
+    "descripcion": "Tiene más de 100 años de historia documentada en México."
+  },
+  {
+    "pregunta": "que escuela impulso la lsm",
+    "descripcion": "La Escuela Nacional para Sordomudos fue clave en el desarrollo de la LSM."
+  },
+  {
+    "pregunta": "la lsm es una lengua o un lenguaje",
+    "descripcion": "Es una lengua completa, con gramática y estructura propia."
+  },
+  {
+    "pregunta": "quienes usan la lsm",
+    "descripcion": "Principalmente personas sordas en México, pero también sus familias, intérpretes y educadores."
+  },
+  {
+    "pregunta": "la lsm fue prohibida alguna vez",
+    "descripcion": "Sí, en algunas épocas se promovía solo el habla oral, prohibiendo el uso de señas."
+  },
+  {
+    "pregunta": "la lsm se ensena en escuelas",
+    "descripcion": "Sí, actualmente se enseña en escuelas de educación especial y algunas universidades."
+  },
+  {
+    "pregunta": "como se preserva la lsm",
+    "descripcion": "Mediante diccionarios, libros, videos, y el uso en comunidades y escuelas."
+  },
+  {
+    "pregunta": "que significa que la lsm sea visual",
+    "descripcion": "Que se comunica con movimientos de manos, rostro y cuerpo, no con sonido."
+  },
+  {
+    "pregunta": "la lsm tiene gramatica propia",
+    "descripcion": "Sí, su gramática es diferente al español, con su propia estructura."
+  },
+  {
+    "pregunta": "cual fue la primera ley que reconocio la lsm",
+    "descripcion": "La Ley General para la Inclusión de las Personas con Discapacidad de 2005."
+  },
+  {
+    "pregunta": "quienes defienden la lsm",
+    "descripcion": "Asociaciones de personas sordas, intérpretes y activistas por la inclusión."
+  },
+  {
+    "pregunta": "la lsm cambia con el tiempo",
+    "descripcion": "Sí, como toda lengua viva, evoluciona según el contexto cultural y social."
+  },
+  {
+    "pregunta": "hay dialectos en la lsm",
+    "descripcion": "Sí, hay variaciones regionales dependiendo del estado o comunidad."
+  },
+  {
+    "pregunta": "la lsm tiene alfabeto",
+    "descripcion": "Sí, el alfabeto manual permite deletrear palabras con señas."
+  },
+  {
+    "pregunta": "la lsm se parece al espanol",
+    "descripcion": "No, tiene una estructura gramatical distinta al español."
+  },
+  {
+    "pregunta": "la lsm es reconocida en otros paises",
+    "descripcion": "No oficialmente, pero es respetada como lengua nacional en México."
+  },
+  {
+    "pregunta": "por que es importante la lsm",
+    "descripcion": "Porque permite a personas sordas comunicarse y participar plenamente en la sociedad."
+  },
+  {
+    "pregunta": "quien ensena lsm",
+    "descripcion": "Intérpretes, personas sordas nativas, y docentes capacitados en LSM."
+  },
+  {
+    "pregunta": "hay universidades que ensenan lsm",
+    "descripcion": "Sí, varias universidades ofrecen cursos de LSM e interpretación."
+  },
+  {
+    "pregunta": "hay medios de comunicacion en lsm",
+    "descripcion": "Sí, algunos noticieros y programas incluyen intérpretes de señas."
+  },
+  {
+    "pregunta": "que dia se celebra la lsm",
+    "descripcion": "El 10 de junio se celebra el Día Nacional de la LSM en México."
+  },
+  {
+    "pregunta": "como se dice lsm en lsm",
+    "descripcion": "Se hace la seña correspondiente a 'lengua', 'señas' y 'mexicana'."
+  },
+  {
+    "pregunta": "la lsm es dificil de aprender",
+    "descripcion": "No más que otro idioma, requiere práctica y contacto con la comunidad sorda."
+  },
+  {
+    "pregunta": "los ninos sordos aprenden lsm primero",
+    "descripcion": "Idealmente sí, ya que es su lengua natural y visual."
+  },
+  {
+    "pregunta": "hay diccionarios de lsm",
+    "descripcion": "Sí, en formato impreso y digital, con imágenes o videos."
+  },
+  {
+    "pregunta": "la lsm esta en la constitucion",
+    "descripcion": "Se reconoce como lengua nacional en leyes federales, aunque no en la Constitución directamente."
+  },
+  {
+    "pregunta": "cuantos usuarios hay de lsm",
+    "descripcion": "Se estima que más de 100,000 personas en México la usan como lengua principal."
+  },
+  {
+    "pregunta": "la lsm es solo para sordos",
+    "descripcion": "No, cualquier persona puede aprenderla para comunicarse o apoyar la inclusión."
+  },
+  {
+    "pregunta": "hay interpretes certificados en lsm",
+    "descripcion": "Sí, existen procesos de certificación para intérpretes profesionales."
+  },
+  {
+    "pregunta": "se puede estudiar lsm en linea",
+    "descripcion": "Sí, hay cursos en línea gratuitos y de pago para aprender LSM."
+  },
+  {
+    "pregunta": "la lsm tiene poesia",
+    "descripcion": "Sí, existe poesía visual expresada con señas y expresiones."
+  },
+  {
+    "pregunta": "la lsm tiene literatura propia",
+    "descripcion": "Sí, hay cuentos, relatos y obras hechas en LSM por personas sordas."
+  },
+  {
+    "pregunta": "por que se creo la lsm",
+    "descripcion": "Surgió como necesidad natural de las personas sordas para comunicarse entre ellas."
+  },
+  {
+    "pregunta": "hay museos que muestran historia de la lsm",
+    "descripcion": "Algunos museos o centros culturales presentan exposiciones sobre la comunidad sorda y la LSM."
+  }
+]
+
+respuestas rapidas
+
+[
+  { "tipo": "saludo", "contenido": "¡Hola! ¿En qué puedo ayudarte hoy?" },
+  { "tipo": "despedida", "contenido": "Hasta luego, que tengas un excelente día." },
+  { "tipo": "saludo", "contenido": "¡Buenos días! ¿Tienes alguna duda sobre LSM?" },
+  { "tipo": "despedida", "contenido": "Nos vemos pronto. ¡Cuídate!" },
+  { "tipo": "saludo", "contenido": "¡Qué gusto saludarte! Estoy listo para ayudarte." },
+  { "tipo": "despedida", "contenido": "Gracias por usar el chatbot. ¡Hasta la próxima!" },
+  { "tipo": "saludo", "contenido": "Hola, bienvenido al asistente LSM." },
+  { "tipo": "despedida", "contenido": "Adiós, recuerda que siempre puedes volver a preguntar." },
+  { "tipo": "saludo", "contenido": "¡Hola! Estoy aquí para responder tus preguntas." },
+  { "tipo": "despedida", "contenido": "Cierre de sesión exitoso. ¡Hasta pronto!" }
+]
+

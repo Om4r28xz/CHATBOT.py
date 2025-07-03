@@ -1,0 +1,47 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-image: url('https://images.unsplash.com/photo-1557683311-eac922347aa1?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Ymx1ZSUyMGFuZCUyMHB1cnBsZSUyMGdyYWRpZW50fGVufDB8fDB8fHww'
+); 
+  background-color: #ebf8ff; /* azul claro para contraste */
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+#chat {
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.question {
+  text-align: right;
+  color: #6b21a8;
+  font-weight: bold;
+}
+
+.answer {
+  text-align: left;
+  color: #db2777;
+}
+
+.chat-bubble {
+  display: inline-block;
+  padding: 10px 14px;
+  border-radius: 20px;
+  max-width: 80%;
+  margin-bottom: 8px;
+  word-wrap: break-word;
+}
+
+.chat-user {
+  background-color: #d8b4fe; 
+  color: #4b0082;
+  align-self: flex-end;
+}
+
+.chat-bot {
+  background-color: #bee3f8; 
+  color: #1a365d;
+  align-self: flex-start;
+}
+

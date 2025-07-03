@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Chatbot LSM</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="../static/css/styles.css">
+</head>
+<body class="bg-blue-50 font-sans min-h-screen flex">
+
+  <!-- Sidebar -->
+  <aside class="w-64 bg-white shadow-md p-4 overflow-y-auto h-screen">
+    <h2 class="text-xl font-bold text-blue-700 mb-4">🕘 Historial</h2>
+    <ul id="history" class="space-y-2 text-sm text-gray-700"></ul>
+  </aside>
+
+  <!-- Main Chat -->
+  <main class="flex-1 p-6">
+    <div class="max-w-2xl mx-auto">
+      <h1 class="text-3xl font-bold text-blue-700 mb-6">Chatbot LSM</h1>
+
+      <div id="chat" class="bg-white shadow rounded p-4 space-y-4 max-h-[60vh] overflow-y-auto mb-6 border border-blue-200"></div>
+
+      <form id="chat-form" class="flex gap-2">
+        <input type="text" id="user-input" placeholder="Escribe tu pregunta..." required
+          class="flex-grow border border-blue-300 rounded px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-400"
+        />
+        <button type="submit" class="bg-blue-700 text-white px-4 py-2 rounded hover:bg-blue-800">
+          Enviar
+        </button>
+      </form>
+    </div>
+  </main>
+
+  <script src="../static/js/chat.js"></script>
+</body>
+</html>
