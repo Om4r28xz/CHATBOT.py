@@ -7,7 +7,7 @@
 - **Base de Datos**: MongoDB (usando [Motor](https://motor.readthedocs.io/en/stable/))
 - **Frontend**: HTML + TailwindCSS + JavaScript
 - **Pydantic**: Para validación de datos
-- **Difflib / Regex**: Para comparación semántica de preguntas
+- **SecuenceMatcher**: Para comparación semántica de preguntas
 
 ---
 
@@ -43,5 +43,5 @@
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/chatbot-lsm.git
+git clone https://github.com/tu_usuario/CHATBOT.py.git
 cd chatbot-lsm
